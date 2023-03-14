@@ -364,4 +364,4 @@ void nivash()
 {
 	system("cls");
 	printf("\nName: NIVASH \tClass: CSE-B");
-}
+} 
